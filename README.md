@@ -1,5 +1,5 @@
 # Vis_ExposureMethods
-Cleaning, wrangling and vizualizing the data of the Review study on human Exposure methods and tools, using R 
+Cleaning, wrangling and vizualizing the data of the ONTOX review study on human Exposure methods and tools, using R 
 
 This code is developed to clean, wrangle and vizualize the extracted data for accessible methods and tools to assess human exposure, 
 through a review study undertaken by the ONTOX project that took place in Sysrev web platform.
