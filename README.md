@@ -1,8 +1,8 @@
 # Vis_ExposureMethods
-Cleaning, wrangling and vizualizing the data of human Exposure methods and tools, using R 
+Cleaning, wrangling and vizualizing the data of the Review study on human Exposure methods and tools, using R 
 
-This code is developed to clean, wrangle and vizualize the extracted data undertaken for the ONTOX project Review study that took place in Sysrev web platform for accessible methods and 
-tools to assess human exposure. 
+This code is developed to clean, wrangle and vizualize the extracted data for accessible methods and tools to assess human exposure, 
+through a review study undertaken by the ONTOX project that took place in Sysrev web platform.
 
 A total of 63 mathematical models and toolboxes are identified in the scoping review with 12 of them occurring most frequently to calculate human exposure. The most frequently used mathematical models and toolboxes were associated with exposure route, chemical classes, and input parameters (data) used to estimate exposure. 
 The outcome of the combined analysis can guide researchers to select the appropriate mathematical model/toolbox and relatively easily reproduce human exposure estimates calculations for a wide range of environmental chemical classes identified in this scoping review. 
